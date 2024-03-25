@@ -49,5 +49,4 @@ Just to remind you, this is an iterative process. Continuously engage stakeholde
 For a more detailed view of the method, please refer to this paper:
 
 > G. B. Herwanto, F. J. Ekaputra, G. Quirchmayr and A. M. Tjoa, "Towards a Holistic Privacy Requirements Engineering Process: Insights from a Systematic Literature Review," in IEEE Access, doi: 10.1109/ACCESS.2024.3380888.
-keywords: {Privacy;Requirements engineering;Reviews;Systematics;Software;Task analysis;Bibliographies;privacy requirements engineering;privacy design engineering;privacy engineering;privacy by design},
 
