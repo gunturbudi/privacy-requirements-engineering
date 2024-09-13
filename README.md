@@ -4,7 +4,7 @@
 
 This project outlines a comprehensive process for designing privacy-aware systems. The Mermaid.js diagram below visualizes the workflow and relationships between different stages of the process, from defining privacy goals to selecting strategies and solutions.
 
-## Mermaid Diagram
+## The Holistic Process of Privacy Requirements and Design Engineering
 
 ```mermaid
 %%{
