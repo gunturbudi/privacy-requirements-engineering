@@ -158,3 +158,8 @@ To apply these styles in Mermaid Live Editor, you can add the following configur
   }
 }%%
 ```
+
+
+For a more detailed view of the method, please refer to this paper:
+
+> G. B. Herwanto, F. J. Ekaputra, G. Quirchmayr and A. M. Tjoa, "Towards a Holistic Privacy Requirements Engineering Process: Insights from a Systematic Literature Review," in IEEE Access, doi: 10.1109/ACCESS.2024.3380888.
